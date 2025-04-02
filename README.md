@@ -1,7 +1,7 @@
 ### Olá 👋
 
-###### Sobre o Adelson
-###### Minha Jornada Profissional: Da Hotelaria à Ciência de Dados
+#### Sobre o Adelson
+##### Minha Jornada Profissional: Da Hotelaria à Ciência de Dados
 
 Minha trajetória na Ciência de Dados começou com minha formação na EBAC, onde aprendi a utilizar ferramentas como Python, SQL e bibliotecas de Machine Learning para análise e modelagem de dados. Hoje, aplico esses conhecimentos para transformar informações brutas em insights estratégicos, desenvolvendo soluções baseadas em dados para otimização de processos e tomada de decisões.
 
