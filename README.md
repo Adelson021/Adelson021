@@ -16,11 +16,6 @@ Minha experiência combina análise de dados, estatística, visualização e eng
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adelson021&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### Projetos
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Adelson021&repo=credit-scoring.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ### Linguagens utilizadas
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adelson021&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
